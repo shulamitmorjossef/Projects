@@ -61,7 +61,7 @@ public class ZooPanel extends JPanel{
         timer.start();
         panels = null;
         players = null;
-        loadImage("src/Images/competitionBackground.png");
+        loadImage("Images/competitionBackground.png");
 
 
     }
